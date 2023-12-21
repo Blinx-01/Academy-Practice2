@@ -1,1 +1,1 @@
-echo "Hello, World task2"
+echo "Hello, World"
